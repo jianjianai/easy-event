@@ -10,10 +10,3 @@ abstract class Event {
      */
     var stopImmediatePropagation =  false;
 }
-
-abstract class CancelableEvent: Event() {
-    /**
-     * 取消事件
-     */
-    var cancel = false;
-}
