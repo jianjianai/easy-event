@@ -38,7 +38,7 @@ Event
 ~~~
 
 ## 添加到依赖
-
+[![](https://jitpack.io/v/cn.jjaw/easy-event.svg)](https://jitpack.io/#cn.jjaw/easy-event)
 ~~~ gradle
 	allprojects {
 		repositories {
