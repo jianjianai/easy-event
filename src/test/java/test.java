@@ -23,7 +23,6 @@ public class test {
             return null;
         });
         eventManager.regEventListen(MyEvent.class,(e)->{
-            e.setStopImmediatePropagation(true);
             System.out.println("myEvent1");
             return null;
         }, Priority.High);
