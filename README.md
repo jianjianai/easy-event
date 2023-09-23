@@ -49,6 +49,6 @@ Event
 ~~~
 ~~~ gradle
 	dependencies {
-	        implementation 'cn.jjaw:easy-event:v1.0.1'
+	        implementation 'cn.jjaw:easy-event:v1.1.1'
 	}
 ~~~
